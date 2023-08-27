@@ -6,6 +6,13 @@ EXEcutor helps you manage executable files in your repository. It identifies `.e
 
 The EXEcutor script (`EXEcutor.py`) and the `generate_exe_files.py` script work together to showcase the functionality. The generate_exe_files.py script generates a sample directory structure with .exe files, and the EXEcutor.py script manages these files based on user input.
 
+## Demonstration Video
+
+<video controls>
+  <source src="./Demo_Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Steps
 
 1. **Generate Sample Directory Structure**

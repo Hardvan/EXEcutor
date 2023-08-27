@@ -8,10 +8,9 @@ The EXEcutor script (`EXEcutor.py`) and the `generate_exe_files.py` script work 
 
 ## Demonstration Video
 
-<video controls>
-  <source src="./Demo_Video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Click on the thumbnail below to watch the demonstration video on YouTube.
+
+[![EXEcutor Demo](./thumbnail.png)](https://youtu.be/4UESBu3zZls)
 
 ## Steps
 
